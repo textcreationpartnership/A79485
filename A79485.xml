@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additionall remonstrance to the valiant and wel-deserving souldier, and the rest of the creditors of the common-wealth: concerning the publick faith; souldiers arrears; and other publick debts, and grievances of the nation. With a little friendly touch to L:Coll: Iohn Lilburne. Written by Samuel Chidley of London Gent.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79485</idno>
+            <idno type="STC">Wing C3834</idno>
+            <idno type="STC">Thomason E702_17</idno>
+            <idno type="STC">Thomason E711_7</idno>
+            <idno type="STC">ESTC R207323</idno>
+            <idno type="EEBO-CITATION">99866380</idno>
+            <idno type="PROQUEST">99866380</idno>
+            <idno type="VID">166584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E702[17] or 110:E711[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additionall remonstrance to the valiant and wel-deserving souldier, and the rest of the creditors of the common-wealth: concerning the publick faith; souldiers arrears; and other publick debts, and grievances of the nation. With a little friendly touch to L:Coll: Iohn Lilburne. Written by Samuel Chidley of London Gent.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E.702[17]: "June 27"; on Thomason copy E.711[7]: "August".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Pay, allowances, etc --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Debts, Public --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166584:1" rendition="simple:additions"/>
+            <p>AN ADDITIONALL REMONSTRANCE To the Valiant and wel-deſerving SOULDIER, And the reſt of the CREDITORS OF THE COMMON-WEALTH: CONCERNING The Publick Faith; Souldiers Arrears; AND Other Publick Debts, and GRIEVANCES of the NATION.</p>
+            <p>With a little friendly touch to L: Coll: <hi>IOHN LILB<g ref="char:V">Ʋ</g>RNE.</hi>
+            </p>
+            <p>Written by <hi>Samuel Chidley</hi> of London Gent.</p>
+            <q>
+               <bibl>
+                  <hi>2 King: 6.5.</hi>
+               </bibl> And he cried, and ſaid, Alas maſter, for it was borrowed.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166584:2"/>
+            <pb n="3" facs="tcp:166584:2"/>
+            <head>AN ADDITIONALL REMONSTRANCE TO The valiant and well-deſerving Souldier, and the reſt of the Creditors of the Common-wealth; concerning the Publick Faith, Souldiers Arrears, and other Publick Debts and Grievances of the Nation. With a little friendly touch to Lieut: Coll: <hi>JOHN LILB<g ref="char:V">Ʋ</g>RN.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas upon the diſſolution of the lare Repreſentative, I publiſhed a Remonſtrance, the 22th of <hi>April</hi> laſt, which was reſented beyond my expectation, and acknowledg<g ref="char:EOLhyphen"/>ed as a true token of my real affe<g ref="char:EOLhyphen"/>ctions to the Publique. The Peo<g ref="char:EOLhyphen"/>ples daily experience of the ſad condition of the Creditors of the Common wealth of <hi>England,</hi> to whom it was principally directed, confirm<g ref="char:EOLhyphen"/>ing the ſame. Yet affecting brevity therein, becauſe I expected a Declaration from the Officers, I did for<g ref="char:EOLhyphen"/>bear to enlarge my ſelf, leſt I ſhould ſtand in their way, who are furniſhed with variety of intelligence, and better able to make a rehearſal of the tranſaction of
+<pb n="4" facs="tcp:166584:3"/>affairs from the beginning to the end. And therefore reſolved to meddle with nothing for that preſent, but what moſt ſpecially, and particularly concerned the buſines of the Publique, relating to my Truſt.</p>
+            <p>But it ſeems multiplicity of affairs taking up the Generals time, with the Councel, matters are not yet in ſuch a forwardnes as was expected: And therefore neceſſity conſtraineth me to publiſh this Aditional Re<g ref="char:EOLhyphen"/>monſtrance for further ſatisfaction to the People, and to eaſe my ſelf of the trouble of making anſwers often times, again and again, to ſo many perſons particularly, who are very inquiſitive from time to time, to know what's become of the Publique Faith, and Debenters, the price of their blood. And truly were it not to ſa<g ref="char:EOLhyphen"/>tisfie an afflicted, poor, diſtreſſed, and needy People, who are almoſt ſpent for want of <hi>pure</hi> Juſtice, and con<g ref="char:EOLhyphen"/>tinually annoyed with the poyſonous vapors of cor<g ref="char:EOLhyphen"/>rupt, and wicked Laws, and have ſpent their money for that which is not bread, and their labour for that which ſatisfieth not, I ſhould not be ſo forward to write, and print Books to fill the world more full, who are ſo glutted already, but rather ſit and ſee at diſtance, and hold my peace till I have learned wiſdom, eſteem<g ref="char:EOLhyphen"/>ing it better to live in quietnes, and remain private in the watch tower of obſervation, to take an exact view of all things, by the Rule of Reaſon, conſidering, com<g ref="char:EOLhyphen"/>paring and thereupon concluding, then to ſpend my time, and ſtrength as publiquely as I have done, with<g ref="char:EOLhyphen"/>out more probability of prevailing.</p>
+            <p>For whilſt Reaſon is creating new preſidents, and working wonders, to ſet the world in a maze, and put to ſilence the ignorance of the fooliſh, producing peace by war, to make men live and learn. It is not for me,
+<pb n="5" facs="tcp:166584:3"/>the weakeſt amongſt 10000. to power out all my mind at once, but to ponder of that which is repreſent<g ref="char:EOLhyphen"/>ed to my underſtanding, That my heart may be reple<g ref="char:EOLhyphen"/>niſhed with wiſdom, whereby I may diſcern both time and judgment, and be enabled to anſwer the expecta<g ref="char:EOLhyphen"/>tions of ſuch a conſiderable number of the good peo<g ref="char:EOLhyphen"/>ple of <hi>England,</hi> who have by word, and writing under their hands, deſired, and intruſted me, to agitate their buſines for the obtaining of their juſt debts, upon the publique account, Looking upon me as their Intelli<g ref="char:EOLhyphen"/>gencer, and ſole director, how to ſteer their courſe, and to whom, and when to make their applications, who have thought much at my forbearance in not being ſo forward to preſſe theſe who are at this preſent in chief power, as formerly they admired at my patience, and importunate ſolicitations of thoſe who were in ſu<g ref="char:EOLhyphen"/>preme Authority, for the accompliſhment of their many fair promiſes, Declarations, Proteſtations, and ingagements: All of which are now alſo at this pre<g ref="char:EOLhyphen"/>ſent time expected to be performed, though not by the power that is gone, yet by their Succeſſors, who ſaw their departure, and remained behind, and have in their Declaration put in a cautious caveat of Adminiſtra<g ref="char:EOLhyphen"/>tion. And indeed it is but reaſon that they ſhould ad<g ref="char:EOLhyphen"/>miniſter upon the Eſtates, and pay the lawful debts of their Predeſſeſſors, who had not time to ſeal their wil before their diſſolution, Or elſe declare who are to do it, and that ſpeedily. And to pay al Bonds, and Bils, and other juſt Debts before Legacies.</p>
+            <p>And what lets, but that the Publique Faith, and old Arrears of the Souldiery, <hi>&amp;c.</hi> ſhould be paid with all convenient ſpeed? I hope the Officers of the Army who found fault with the Parliament for neglecting
+<pb n="6" facs="tcp:166584:4"/>ſuch things of great importance, will not hinder, but rather further it, as much as men in their condition can do, leſt the world ſhould brand them for notorious Hipocrites: For who ſtands in their way to oppoſe them now the <hi>Tree</hi> of Regal Power is <hi>cut down, And the Branches</hi> of Parliamentory Authority cropt off, <hi>the leaves</hi> thereof ſhaken to the ground, <hi>and the fruit ſcattered And the Beaſts of the feild,</hi> who had ſhelter thereby, <hi>and the fowls of the Heaven which lodged in the branches thereof,</hi> and were continually fed therfrom, <hi>all gone</hi> to ſhift for themſelves elſewhere, and nothing left but the ſtump of the three States, King, Lords, and Commons, I ſay the very <hi>ſtump, faſtned</hi> (as it were <hi>with a band of Iron, by the decree of the watchers, and according to the words of the holy ones, to the intent, that the living may know, that the moſt high ruleth over the Kingdom of men, and giveth it to whom he will, and ſet<g ref="char:EOLhyphen"/>teth over it the moſt abject among men.</hi> Dan. 4.14.17.</p>
+            <p>
+               <hi>The Lord General, and his Councel of Officers in their Declaration of the</hi> 22th. <hi>of April laſt, manifeſted their in<g ref="char:EOLhyphen"/>tentions, to call to the Government, perſons of approved fide<g ref="char:EOLhyphen"/>lity and honeſty, and in a ſhort time, more particularly to ſhew the ground of their proceedings, and the reaſons of the late action, and change.</hi>
+            </p>
+            <p>Hereupon I was reſolved to have a little patience, for a <hi>ſhort time</hi> to ſee what would be more <hi>particularly</hi> produced, it being a matter of great concernment to the whole Nation, that ſuch a Narration ſhould have been publiſhed to the People, which might be both ſeaſonable, and ſatisfactory, and ſo skilfully contrived, and wiſely compoſed, that every ſentence might be full of ſubſtance, to the rejoycing of the hearts of all the good People of <hi>England,</hi> and ſtriking the Enemy
+<pb n="7" facs="tcp:166584:4"/>with amazemrnt and terror, and weigh down in worth, all the Acts and Ordinances which have been made by any Parliament from the time of the 25. Kings of <hi>England.</hi>
+            </p>
+            <p>This being done, there might have been ground enough for us to us to have builded upon.</p>
+            <p>For who knows not that the Parliaments neglect<g ref="char:EOLhyphen"/>ing of Juſtice,
+<note place="margin">The cau<g ref="char:cmbAbbrStroke">̄</g>ſe of the Parlia<g ref="char:EOLhyphen"/>ments diſſo<g ref="char:EOLhyphen"/>lution.</note> and not regarding the payment of the Publique Faith, Souldiers Arrears, Kings debts, and particular loſſes upon the Publique account, alienated the hearts of their old, and beſt Friends, and fellow ſol<g ref="char:EOLhyphen"/>diers, and ſufferers both in Town, and Country from them, ſo that they had none to ſtand by them, and God had forſaken them: for they had ſinned againſt him, and deeply corrupted themſelves, all which made pre<g ref="char:EOLhyphen"/>paration for their removal without the leaſt reſi<g ref="char:EOLhyphen"/>ſtance, yea and I am confident, if <hi>Joab</hi> and all his Train had been 100 times weaker then they were, they might have done this work with eaſe, no man would have ri<g ref="char:EOLhyphen"/>ſen up againſt it, but rather have taken up this Pro<g ref="char:EOLhyphen"/>verb againſt them.</p>
+            <q>
+               <l>How hath the Oppreſſor ceaſed!
+<note place="margin">Iſa. 14.4.</note>
+               </l>
+               <l>The golden <hi>Parliament</hi> ceaſed!</l>
+            </q>
+            <p>And whereas it is ſuppoſed,
+<note place="margin">The Generals Declaration of the laſt of <hi>April</hi> hovv to be under<g ref="char:EOLhyphen"/>ſtood.</note> That <hi>the Generals Decla<g ref="char:EOLhyphen"/>tion of the laſt of April</hi> laſt, is a ſufficient ground for us to proceed in making applications to the <hi>Councel of State</hi> for the Publique Faith, as before to the Parlia<g ref="char:EOLhyphen"/>ment, yet upon ſerious peruſal thereof, I find no ſuch viſible power conferred upon them, further then, <hi>to take care of, and intend the peace, ſafety, and preſent manage<g ref="char:EOLhyphen"/>ment of the affairs of the Common-wealth.</hi>
+            </p>
+            <p>But waiting for the Narrative mentioned by,
+<note place="margin">What is ex<g ref="char:EOLhyphen"/>pected next.</note> and expected from the Lord General, and his Councel of
+<pb n="8" facs="tcp:166584:5"/>Officers, I have no mind to interrupt their ſerious thoughts, with frequent applications, but wait ſtill till the ſame be publiſhed.</p>
+            <p>Nevertheleſſe, in the mean time, I ſhall prepare things in relation to our publique buſineſs, and leſt this ſhould not be thought ſufficient, for peradven<g ref="char:EOLhyphen"/>ture ſome will ſay, <hi>what if their Narrative never come forth, ſhall we therefore be neglected, and prejudiced by your forbearance?</hi> Therfore to manifeſt to my integrity, I do here declare by the aſſiſtance of God, that if the L<hi rend="sup">d</hi>: Gen: and his Councel of Officers do not publiſh their Relation within the ſpace of 40 dayes after the print<g ref="char:EOLhyphen"/>ing, and publiſhing of this Remonſtrance, I purpoſe (by the advice of a certain number of men, whom you the Creditors of the Common-wealth ſhall make choiſe of, to conſult and adviſe withal) immediately without delay, to proceed as formerly I did at the Parliament, and if poſſible in a more effectuall way, <hi>to make my ap<g ref="char:EOLhyphen"/>plication to that man, or thoſe men whom God raiſeth for the ſupream truſt of this Nation,</hi> as I promiſed in my Re<g ref="char:EOLhyphen"/>monſtrance of the 22th. of <hi>April</hi> laſt.</p>
+            <p>In the mean time I deſire you to live in peace,
+<note place="margin">Good Coun<g ref="char:EOLhyphen"/>ſel in your ap<g ref="char:EOLhyphen"/>plications.</note> and arm your ſelves with patience, to bear your burdens as chearfully as you can, without murmuring, or repi<g ref="char:EOLhyphen"/>ning, knowing that <hi>affliction ariſeth not out of the duſt.</hi>
+            </p>
+            <p>And let all wrath, and bitternes be put away, and <hi>put on the ornament of a meek, and quiet ſpirit,</hi> and uſe gentlenes, and moderation towards all men, <hi>for the wrath of a man doth not accompliſh the righteouſnes of God.</hi>
+            </p>
+            <p>My councel is when you apply your ſelves to the General <hi>&amp;c.</hi> his Councel, or his or their ſucceſſors for
+<pb n="9" facs="tcp:166584:5"/>juſtice, Be unanimous,
+<note place="margin">Pro. 25.23.</note> 
+               <hi>Turn away the backbiter and breedbate with an angry countenance:</hi> Fall not out among your ſelves, but ſtand for one anothers good, And be not unequally yoked with troubleſome perſons. <hi>If any dog doth wag his tongue againſt you, ſuffer him to bark ſo long as he doth not bite.</hi>
+               <note place="margin">2 Sam. 16.5.— 14.</note> A better man then the Capt: General of an Army of a thou<g ref="char:EOLunhyphen"/>ſand thouſand valiant men, hath been expoſed to the teeth of envy, and the jaws of malice. Its no news for the beſt of men to be afflicted with the ſcourge of the tongue,
+<note place="margin">1 King 2.9.</note> therefore ſuffer ſuch evill doers patiently for a while, when your work is done, you may find a time to talk with them; Then curſing <hi>Shemey</hi> will go neer to crouch, and caſt no more ſtones, nor fling duſt in your faces, but rather fall down be<g ref="char:EOLhyphen"/>fore your feet, and acknowledg his offence in diſcrediting ſuch Perſons of credit, who have ſo much credited the Com<g ref="char:EOLhyphen"/>mon-wealth. Let <hi>Rabſhakah</hi> rayl,
+<note place="margin">2 Kin. 18.36. Zech 3.2.</note> but you may refuſe to <hi>an<g ref="char:EOLunhyphen"/>ſwer him a word,</hi> let the <hi>Lord</hi> alone to <hi>re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uke him,</hi> and ſo for the reſt, doubt not but every ſinner ſhall be ſerved in his kind, and the ſame meaſure which men meaſure to others,
+<note place="margin">Mat. 7.2,</note> ſhall be meaſured to them to the full, heapt up, and running over, therefore have a little patience, be merry and wife, though the malignant People mock and deſpiſe you never ſo much, for your forwardnes at firſt, and ſlender ſatisfacti<g ref="char:EOLhyphen"/>on, and poor rewards now.</p>
+            <p>And let me adviſe you, not to make your ſelves work, Be individual, and joynt in one Petition, and not ſeveral in ma<g ref="char:EOLhyphen"/>ny Petitions, for the Perſons to whom you Petition are fleſh and not ſpirit, and if you break their hearts with too much work, before your buſines is done, you may be broke your ſelves thereby.</p>
+            <p>One man with an Engin, may do more then 100 without.</p>
+            <p>
+               <hi>Ergo.</hi> One thouſand may do more then 100000.</p>
+            <p>And ſo ſtrong you are, if you be wiſe.</p>
+            <p>And be not diſcouraged by any Diffidents, who common<g ref="char:EOLhyphen"/>ly affirm that the Publique Faith will never be paid. For what you <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hath done the Common-wealth more good, then if it were given them now. And there is enough to pay you, fear not, think your penny good ſilver, you will have
+<pb n="10" facs="tcp:166584:6"/>it, <hi>at laſt,</hi> for the Rulers of the Earth muſt be honeſt, or elſe the juſt God will bury them in the duſt, Only have a little pati<g ref="char:EOLhyphen"/>ence, And have honorable thoughts of thoſe men who are in preſent power, till there be ground to alter your opinion, and in your addreſſes ſave them, and your ſelves, as much la<g ref="char:EOLhyphen"/>bour as may be; And let all your actions ſavour of diſcreti<g ref="char:EOLhyphen"/>on, And obſerve an orderly courſe in your proceedings: And be not too haſty, leſt you ſtumble in the way. You were bet<g ref="char:EOLhyphen"/>ter fit ſtill, then walk in the dark, In the light you muſt look before you leap, I would not have you to run in vain, but obtain, And ſo ſpeak as to ſpeed, knowing that there is a time for all things,
+<note place="margin">Eccleſ 3.7.</note> yea, <hi>A time to keep ſilence, and a time to ſpeak.</hi>
+            </p>
+            <p>Take heed of boaſting, which is not ſeemly for an afflicted People.</p>
+            <p>Beleeve not an accuſation againſt them from any one,
+<note place="margin">Deut. 19.15.</note> When you admoniſh the Supream, order your ſpeech that it may not ſavour of pride, or paſſion, or contempt of their per<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">Pro. 17.10.</note> or Authority. <hi>A word to the wiſe is more, then an hundred ſtripes to the fooliſh.</hi>
+            </p>
+            <p>When you rehearſe your cauſe, be not too tedious in your relation, Let others have time to ſpeak as wel as your ſelves.</p>
+            <p>But prefer matters of life, before liberty, and Eſtate; And whatſoever the ſupream doth, If it may bear a charitable conſtruction, where there is no cauſe of jealouſie, trouble not your ſelves with it, Nor find fault without a cauſe.</p>
+            <p>TAke heed of that dangerous practice of flattering men in high degree. For the places whereon ſuch great men are ſet, are ſlippery enough, without dropping butter and oyl,
+<note place="margin">Job 32.21, 22.</note> inſtead of tears, upon their footſteps. <hi>Give not flattering titles,</hi> leſt it coſt you dear, <hi>leſt your maker ſoon take you away.</hi>
+            </p>
+            <p>
+               <hi>Put no confidence in Princes,</hi>
+               <note place="margin">Pſal 62, 9. Prov. 29.25. Iſa. 23.9. 1 Cor. 1.31. Deut. 22.10.</note> 
+               <hi>nor be afraid of an arm of fleſh, leſt you be deceived and enſnared God hath purpoſed to ſtaine the pride of all glory, that he who glorieth, may glory only in the Lord.</hi>
+            </p>
+            <p>Uſe no compariſons between one man and another, unleſs you be very well acquainted with their Natures, and diſpo<g ref="char:EOLhyphen"/>ſitions, their actions, and affections, and the Laws by which both muſt be tried, with their callings, works, and mainte<g ref="char:EOLhyphen"/>nance, which will much help you to make, and mend, if you be an exact obſerver, and that with eaſe.</p>
+            <pb n="11" facs="tcp:166584:6"/>
+            <p>I ſhall not ſpend much time to contend with thoſe Mini<g ref="char:EOLhyphen"/>ſters who would make the Lord General <hi>Cromwel</hi> like unto <hi>Moſes.</hi>
+            </p>
+            <p>It may be he is more like unto <hi>Moſes,</hi>
+               <note place="margin">Rom. 13.1. Ephe. 4.11, 12, 13.</note> then they are like unto <hi>Aaron.</hi>
+            </p>
+            <p>
+               <hi>Moſes</hi> was <hi>the meekeſt man upon the Earth,</hi> zealous againſt ido<g ref="char:EOLhyphen"/>latry, and for the ſetting up of Gods publique worſhip,
+<note place="margin">Numb. 12.3. Levit. 24.12.</note> A merciful man, and very <hi>cautious of putting men to death, contra<g ref="char:EOLhyphen"/>ry to the right manner,</hi> and was a lover of the People, and would have them ſaved, though himſelf were blotted.</p>
+            <p>
+               <hi>By faith</hi> Moſes <hi>when he was come to yeers,</hi>
+               <note place="margin">Heb. 11.24.</note> 
+               <hi>refuſed to be called the ſon of</hi> Pharaohs <hi>daughter.</hi>
+            </p>
+            <p>
+               <hi>Chooſing rather to ſuffer affliction with the people of God,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> 
+               <hi>then to enjoy the pleaſures of ſin for a ſeaſon.</hi>
+            </p>
+            <p>
+               <hi>Eſteeming the reproach of Chriſt greater riches then the treaſures of Egypt: for he had reſpect unto the recompenſe of the reward.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+            </p>
+            <p>
+               <hi>By faith he forſook Egypt, not fearing the wrath of the king,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> 
+               <hi>for he endured as ſeeing him who is inviſible.</hi>
+            </p>
+            <p>
+               <hi>Through faith he kept the paſſeover, and the ſprinkling of blood,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> 
+               <hi>leſt he that deſtroyed the firſt-born, ſhould touch them.</hi>
+            </p>
+            <p>Now I do profeſs that God hath not revealed it unto me, nor do I ſee how it can be proved, that his Excellencies De<g ref="char:EOLhyphen"/>clarations are like unto <hi>Moſes Law,</hi>
+               <note place="margin">Deut. 33.4. Pſal. 119.</note> Or that the Acts of Par<g ref="char:EOLhyphen"/>liament (confirmed by him) are like unto <hi>the Statutes and Judgments of the holy and bleſſed God;</hi> Or that <hi>Moſes</hi> hanged the poore theeves meerly for theft,
+<note place="margin">Exod. 22.3.</note> and let the rich theeves go free, I find not that he ever was ſo unworthy as to preſſe his poore Countrey-men to death for not pleading guilty, or not guilty; His meeknes and gentlenes would not admit of forcing any in a tyrannical way, to accuſe themſelves;
+<note place="margin">☝</note> He ſcorned to cut any man off upon one ſingle teſtimony; He was no Libertine,
+<note place="margin">Deut. 12.30.— 32.</note> nor gave any looſe libertie for the Magi<g ref="char:EOLhyphen"/>ſtrates to follow the old Cananitiſh cuſtoms; He had more compaſſion in him than to ſuffer the priſoners to ſtarve in his ſight for want of bread.</p>
+            <p>Now untill it be made appear, that the Lord General is <hi>more then a Prophet, and hath talked face to face with God,</hi>
+               <note place="margin">Numb. 12,6-8</note> and <hi>beheld his ſimilitude,</hi> I hope no godly man will be offended
+<pb n="12" facs="tcp:166584:7"/>with me for my negative voice,
+<note place="margin">Matt. 22.21.</note> but <hi>give unto Ceſar the things which are Ceſars, and unto God the things which are Gods.</hi> Let <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> have his wages for his work,
+<note place="margin">Heb. 3.5.</note> for he was a <hi>faithful ſervant.</hi> And let <hi>Cromwel</hi> be Crowned with the honor thats due unto him, and ſuffer me to declare my opinion, and afterwards let the flatterers ſpeak.</p>
+            <p>My minde gave me long ago, that the LORD GE<g ref="char:EOLhyphen"/>NERAL <hi>CROMWEL</hi> was like <hi>THE KING,</hi>
+               <note place="margin">2 King. 9.20.</note> 
+               <hi>THE LORDS ANOINTED;</hi> I mean <hi>Nimble John the ſon of Nimſby,</hi> who drave <hi>furiouſly,</hi> and ſaid, <hi>come with me, and ſee my zeal for the LORD,</hi> Doubtleſs he was a brave, ſtout, valiant Souldier, and a victorious Conqueror of Gods enem<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es,
+<note place="margin">Chap. 10.</note> an utter ene<g ref="char:EOLhyphen"/>my to the wayes, and ruiner of the Houſe of his Maſter <hi>Ahab.</hi> The deſtruction of <hi>Jezebel,</hi> and rooter out of <hi>Baal,</hi> and made his great Cathedral a very jakes; A man who wrought much by policie, and was very honeſt, and for ought I know, ob<g ref="char:EOLhyphen"/>ſerved <hi>THE LAW OF GOD</hi> much. But he walked in the ſins of <hi>Jerohoam,</hi> and yet God remembred <hi>his good old ſervice,</hi> and let him ſit <hi>upon the Throne to the fourth Generation.</hi> And who knows what good things God hath laid up in ſtore for our Capt: General.</p>
+            <p>But the beſt proviſion which I can make for him,
+<note place="margin">Pſal. 141.5.</note> for the preſent, is the pretious balm of plain and righteous deal<g ref="char:EOLhyphen"/>ing, which ſhall never break his head.</p>
+            <p>
+               <hi>And (humility adorning him like the lillies which grow beſt in low places) the entertainment which I ſhal give him in theſe ſad, and unſetled times is to lead him by the waters of</hi> Marah, <hi>in the valey of weeping, to the houſe of mourning, the ſtorehouſe for tears, where the hearts of the wiſe frequently retire, and the Widdows by the ſides of the houſe, are ſet like weeping Vines, and the Fatherleſs children, like the plants thereof, round about the tables of contempt, feeding on the bread of ſorrows, and drinking tears in an abundant meaſure, Where the rooms are paved with love, and the flooers ſtrowed with aſhes, the Chambers hung with ſackcloth, the flat battlements for defence, cove<g ref="char:EOLhyphen"/>red with coals of fire againſt the approach of the Enemy, in the ward<g ref="char:EOLhyphen"/>robe ſheeps kins, and goats skins, the outhouſes dens, and the cham<g ref="char:EOLhyphen"/>bers caves, to lodg pilgrims, and ſtrangers who feed continually on the bread and water of affliction, to whom a priſon is a palace, death
+<pb n="13" facs="tcp:166584:7"/>life, and the reproach for Chriſt great riches, the ſellars beneath filled with bottles of tears to quench all Tyrants thirſt. There is the cup of trembling, and the wine of aſtoniſhment for the King of Terrors.</hi>
+            </p>
+            <p>NOt far from this <hi>Manſion-houſe,</hi> there is a place where is the throne of Judgment, with ſix ſteps, but he that go<g ref="char:EOLhyphen"/>eth up muſt <hi>put off his ſhoes from off his feet, for the place where he ſtandeth is holy ground;</hi> and every ſtep hath its particular name.</p>
+            <p>The firſt ſtep is called <hi>Repentance from dead works.</hi>
+            </p>
+            <p>The ſecond is <hi>Faith towards God.</hi>
+            </p>
+            <p>The third is <hi>the Doctrine of Baptiſmes.</hi>
+            </p>
+            <p>The fourth is <hi>the laying on of hands.</hi>
+            </p>
+            <p>The fifth is, <hi>The reſurrection from the dead.</hi>
+            </p>
+            <p>And the 6th. is, <hi>Eternal Judgment.</hi> And there above, is the Throne of Judgment ſet.</p>
+            <p>At the end of the ſaid ſteps are <hi>twelve Lyons, ſix on the one ſide, and ſix on the other,</hi> anſwerable to the 12 Princes of the Tribes of Iſrael, or the Lambs twelve Apoſtles: And there is no other Jury. Priviledge of Parliament cannot here be pleaded, there being a prerogative power above it.</p>
+            <p>The Statutes of <hi>Omri</hi> are all here condemned to be burnt in great contempt.</p>
+            <p>And a Law eſtabliſhed which will ſerve all Nations.</p>
+            <p>This is a Court of Juſtice and Equity too, where whores and harlots, and all others may have free liberty to plead their cauſes without feeing a Lawyer, and may have a ſpeedy diſpatch there, without going elſewhere.</p>
+            <p>ANd now to conclude: Whereas at the end of my laſt Remonſtrance, I prayed for <hi>the holy ſeparated Church,</hi> and ſome think it ſtrange, that I did not mention the CA<g ref="char:EOLhyphen"/>THOLICK, I did it purpoſely to diſtinguiſh between the <hi>Separatiſts</hi> on the one part, and the ENGLISH AND RO<g ref="char:EOLhyphen"/>MANE CATHOLICKS on the other part. The term <hi>Se<g ref="char:EOLhyphen"/>parate</hi> being frequently uſed in the <hi>Scripture</hi> in the beſt ſence,
+<note place="margin">Exod. 33.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Levit. 20.24. Numb. 19.20. 2 Cor. 6.17. Deut. 7.6. and 14.2,</note> and eſpecially by the greateſt <hi>pen-men</hi> of <hi>holy Writ, Moſes, and Paul,</hi> clearly demonſtrating <hi>that Gods people have been from the beginning, and ought to be an holy, ſpeciall, and peculiar people, ſe<g ref="char:EOLhyphen"/>parated from ſinners,</hi> though not always in <hi>temporall govern<g ref="char:EOLhyphen"/>ment,</hi>
+               <pb n="14" facs="tcp:166584:8"/>yet in <hi>ſpirituall worſhip.</hi> Now ſeeing the <hi>Chuech of God</hi> are not Catholick Papiſts, but <hi>ſeparated Saints,</hi> therefore I thought it moſt meet, and very ſeaſonable, publickly to give them this title of <hi>Holy Separated Church,</hi> becauſe they are <hi>clearly ſeparated from the</hi> Papiſts, of which there are 4 ſorts.</p>
+            <p>The firſt ſort are Catholick Papiſts worſhipping by the Lattin Maſſe, and perſecute the other.</p>
+            <p>The ſecond, Prelatical Papiſts, worſhipping by the Engliſh Maſſe, or Common Prayer, or Liturgie, and per<g ref="char:EOLhyphen"/>ſecute theſe following.</p>
+            <p>The 3d. ſort Presbyterian Papiſts, worſhipping by a Sinodicall Directory, or preſcripts of men, and are perſe<g ref="char:EOLhyphen"/>cuters of the Independents, &amp;c.</p>
+            <p>The 4th. ſort are Independant Papiſts, who will hear the Miniſtry of ſome of the former, and joyn in prayer with ſome of the former Sects whom they account to be godly, and frequently worſhip in the Idolatrous high places which the Papiſts builded, dedicated and con<g ref="char:EOLhyphen"/>ſecrated to Idolatry.</p>
+            <p>And every one that pretendeth never ſo much ſanctity, &amp; joyneth in the worſhip of the firſt Table, with anyone of theſe Papiſts, becometh a Papiſt with the Papiſts, <hi>for he that touched the unclean thing</hi> in the time of the Law,
+<note place="margin">Numb. 19.</note> 
+               <hi>was unclean,</hi> cerimoni<g ref="char:EOLhyphen"/>ally, And in the time of the Goſpel, he that worſhippeth God with a wicked man is unclean,
+<note place="margin">☝</note> And he that worſhipeth with him, who worſhippeth with him, is unclean; although they pretend never ſo much knowledg of God,
+<note place="margin">Iſa. 58.2.</note> 
+               <hi>and ſeek him daily, and delight to know his wayes, as a Nation that did righteouſnes, and forſook not the Ordinances of Juſtice, and ask of God the Ordinances of Juſtice, and take delight in approaching unto God, Yet when they ſpread forth their hands,</hi>
+               <note place="margin">Iſa 1.15.</note> 
+               <hi>God will hide his eyes, and although they make many prayers, he will not hear them. For the ſacrifice of the wicked is an abomination to the Lord, how much more when he bring<g ref="char:EOLhyphen"/>eth it with a wicked mind.</hi>
+               <note place="margin">Pro. 21.27.</note> 
+               <hi>Yea he that ſacrifiſed an Ox, it was im<g ref="char:EOLhyphen"/>puted as if he flew a man, he that ſacrificed a Lamb, as if he cut off a doggs neck,</hi>
+               <note place="margin">Iſa. 66.3.</note> 
+               <hi>he that offered an oblation, as if he offered ſwines bloud, and he that burned incenſe, as if he bleſſed an Idol.</hi>
+            </p>
+            <pb n="15" facs="tcp:166584:8"/>
+            <p>
+               <hi>And when they faſt</hi> (ſaith God) <hi>I will not hear their ery:</hi>
+               <note place="margin">Jer. 14.12. Iſa. 1.14.</note> 
+               <hi>And their ſolemn Feaſts my ſoul loatheth.</hi>
+            </p>
+            <p>As good therefore never a whit as never the better.</p>
+            <p>
+               <hi>For we know that God heareth not ſinners,</hi>
+               <note place="margin">Joh 9, 31.</note> 
+               <hi>but if any man be a worſhipper of God, and doth his will him he heareth.</hi>
+            </p>
+            <p>God accounts Religious mens Preaching, no better then prating, and their praying vain babling,
+<note place="margin">Iſa. 58.9. O mind this well.</note> 
+               <hi>till they remove from them the yoak the putting forth of the finger, and ſpeaking vanity.</hi>
+            </p>
+            <p>THe Lord General, and his Counſel of Officers, in their Declaration of the 32th. of <hi>April</hi> laſt, gave Order <hi>for all Judges<g ref="char:punc">▪</g> Sheriffs, Juſtices of the Peace, Majors and all other Officers to proceed at large in their ſeveral places as formerly,</hi> but they for<g ref="char:EOLhyphen"/>got their old, and honeſt principles, Agreement,
+<note place="margin">See their Agreement of the People.</note> and Ingage<g ref="char:EOLhyphen"/>ments, mentioned in their book Declaration, wherein they declare againſt hanging men for ſtealing, and againſt preſſing men for not accuſing themſelves.</p>
+            <p>Hereupon the ſame day, even the 22th. of <hi>April</hi> laſt, a man was Preſt to death in a tyrannical manner, for not anſwe<g ref="char:EOLhyphen"/>ring guilty or not guilty, And two more were put to death the week following for theft, And the laſt Seſſions after that, ſix ſtout men were hanged for ſtealing, which might have done good ſervice for the Common-wealth at Sea, inſtead of preſſing honeſt houſe-keepers againſt their wils, And ſome of theſe poor theeves ſuffered the pains of death for very ſmal matters, All which is againſt the moſt righteous law of God, and is no better then murder, as I have proved in my CRY AGAINST THAT CRYING SIN, and in my black book which I delivered in at the Parliament door, And if ſo much was done at <hi>London,</hi> what hath been done elſewhere.</p>
+            <p>Thus the ſtreams of blood are powred upon the head of the Army, and how can we expect the Wars to be ended, be<g ref="char:EOLhyphen"/>fore the World is amended. But it's hoped that the next Re<g ref="char:EOLhyphen"/>preſentative will take better care, to put Gods Laws in exe<g ref="char:EOLhyphen"/>cution concerning mens lives, liberties, and eſtates, then the former have done, And ſo there will be general ſatisfaction to the People.</p>
+            <div type="appendix">
+               <pb n="16" facs="tcp:166584:9"/>
+               <head>THE APPENDIX.</head>
+               <p>YOu well affected and valiant Soldiers, who have made way of old for your fellow Soldiers: I know you are diſ<g ref="char:EOLhyphen"/>contented, and indeed I do not ſee how you can be wel plea<g ref="char:EOLhyphen"/>ſed without ſatisfaction for your Arrears, the price of your blood, which is pretious; There is ſomething in agitation for you by the Counſel, prepare the chambers of your heart for content, for I hope it ſhall not be long, but you will have your wages for your faithful ſervice, and be content there<g ref="char:EOLhyphen"/>with.</p>
+               <p>And you that have lent your eſtates, monies, plate, <hi>&amp;c.</hi> for the Common-wealths uſe, when a new Repreſentative is eſtabliſhed, you will have it all again with advantage, doubt it not. And he that regardeth not the Publique Faith, you know is not meet for publique truſt, but hath denied the Faith, and is worſe then an Infidel, And ſo is not qualified aright, according to the Lord Generals Declaration: for ſuch a man hath neither fidelity nor honeſty, If ſuch take the truſt upon them, they ſhould be taken notice of, as Enemies to the Common-wealth.</p>
+               <p>And you well-affected Creditors of the late King, <hi>&amp;c.</hi> and you Sufferers who have bin plundred by his party; Conſider what I told you in my former Remonſtrance, and declare your mind freely, For ſuch looſers muſt have leave to ſpeak.</p>
+               <p>
+                  <hi>And all you that are weary, and heavy laden with the unrighteous decrees, and grievous preſcriptions of unrighteous men, whereby the needy have been turned aſide from juſtice, and the right taken away from the People, that Widdows may be the Tyrants prey, and they may rob the Fatherleſs. O how have you been afflicted, toſſed with tempeſts, and not comforted.</hi> But now pluck up your ſpirits, and Petition preſently, and I do promiſe you ſhall not want my aſſiſtance freely, if it be requiſite, without expecting any ſatisfaction from you, but acceptation only of my good will for you, looking for a better recompenſe of reward, then al the earth<g ref="char:EOLhyphen"/>ly Generals in the world can give.</p>
+               <p>My opinion is that you need not trouble the Lord Gene<g ref="char:EOLhyphen"/>ral
+<pb n="17" facs="tcp:166584:9"/>or his Counſel with many Petitions, but make a forlorn Liſt of your names, (and places of aboad) who groan un<g ref="char:EOLhyphen"/>der oppreſſions by falſe and pretended actions, and illegal, chargeable, and delatory practiſes, and proceedings in the Law; And let there be one general Petition drawn up, which is as good as a thouſand, and let it contain the ſubſtance of your complaints, and what you deſire; and let the ſame be preſented with ſpeed to them who have power to redreſs your grievances; That they may appoint a certain num<g ref="char:EOLhyphen"/>ber of honeſt, and faithful men to ſit early and late, as Com<g ref="char:EOLhyphen"/>miſſioners; Fully to hear, and finally to determine all man<g ref="char:EOLhyphen"/>ner of grievances depending in ſuits of Law, which ſhall not happen to be ended by Law within a certain convenient time limited, and thereby they may probably diſpatch 100. Cauſes in a day, which will be a great eaſe to the People, they ſitting daily, ſo long as there is any buſines for them to do, that all men may enjoy their juſt rights without mole<g ref="char:EOLhyphen"/>ſtation. That Juſtice may be no more cloathed with ſack<g ref="char:EOLhyphen"/>cloth, nor judgment turn'd into wormwood, and gall, That truth may be no more blemiſhed by falſhood, nor equity kept out by inquity.</p>
+               <p>
+                  <hi>O yee mighty ones who ſit as Gods, defend the poor Widdows, and the Fatherleſs: do juſtice to the afflicted, and needy. Deliver the poor and needy: rid them out of the hand of the wicked;</hi> It concerns you to double your diligence in well doing, <hi>for all the foundations of the earth are out of courſe, and the dark places thereof are full of the habitations of cruelty.</hi>
+               </p>
+               <p>Shall the deſolate Widdows, and Fatherleſs be made the chief marks for injuſtice to ſhoot at<g ref="char:punc">▪</g> And be continually vex<g ref="char:EOLhyphen"/>ed, and tormented by the moſt cruell, illegal, and delatory proceedings in the Law, and the Woman, though ſhe brought 10000 l. portion to her Husband, and could have no claim in his real eſtate, but for her life time, &amp; that but a third, and though never ſo aged, yet upon the death of her husband, ſhe required by the Law, to deliver up all to the Heir, ſaving the dwelling Houſe for 40. dayes, and if ſhe paſſe the time of 40. dayes, muſt ſtill be liable to action; And before ſhe can compel the Tenant to plead, with tearms
+<pb n="18" facs="tcp:166584:10"/>of Law called Aſſoynes, Adjournments, and Views, ſhall a whole year be ſpent then in the fire of contention, to make them ſpin out the reſt of their dayes in vanity, and yeers in trouble? and then if the Sheriff or Crowner fail to return the Jury, (which is a common thing) a fine is ſet upon them in<g ref="char:EOLhyphen"/>deed, but a four penny matter will take it off, and this is enough to put off the poor Widdow another year, Shal ſuch evill cuſtomes ſtill remain up and down the Land?</p>
+               <p>As for her perſonal Eſtate, the Executor he poſſeſſeth all, al<g ref="char:EOLhyphen"/>though it be never ſo many thouſands: And then in the mean time the poor widows have no relief but in Chance<g ref="char:EOLhyphen"/>ry, where they muſt ſerve a compleat Apprentiſhip, before they can be made free by Law. And thereby the poor deſo<g ref="char:EOLhyphen"/>late widdows, through extreme neceſſity are forced to bor<g ref="char:EOLhyphen"/>row, &amp; pawn, yea and ſometimes to begg their bread, &amp; ſue <hi>in forma pauperis,</hi> &amp; ſo the remedy is worſe then the Diſeaſe; And if the widdow dye while the Suit is depending, al's loſt, and then the Heir, or Executor robs all the reſt of her chil<g ref="char:EOLhyphen"/>dren of al, And the Fatherleſs are conſtrained to ſue for their portion, 21. 22. years, yea ſometimes 23. years, before they can recover it. Thus as I ſaid before, <hi>the Widdows are their prey and they rob the Fatherleſſe. But wee unto the Oppreſſors, what will they do in the time of their viſitation?</hi>
+               </p>
+               <p>
+                  <hi>O</hi> Cromwel <hi>the Lord of the Land, lay it to thy heart, Look to theſe things, redreſſe theſe grievances in time, unleſſe the prize be gone out of thy hand, and the Crown be fallen from thy head, Work now, O now, before darknes, and the ſhadow of death ſeize upon thee in the Land of oblivion, where the light is as darknes, for thou art here to day, but thou doſt not know where thou ſhalt be to morrow.</hi>
+               </p>
+               <div type="part">
+                  <pb n="19" facs="tcp:166584:10"/>
+                  <head>A word for L: Col: <hi>JOHN LILB<g ref="char:V">Ʋ</g>RNE.</hi>
+                  </head>
+                  <p>LEt <hi>Lilburne</hi> live, and not dye, O let him live, and ſee bet<g ref="char:EOLhyphen"/>ter dayes: For moſt of his dayes hitherto have been ſorrow, and his travel grief.</p>
+                  <p>How often hath this pitcher been at the Well! and will it ſtill go well with it?</p>
+                  <p>And how many knocks hath it endured upon the hard ſtones, and yet is not broken, but holds tack, and as tough as a lether Jack! But beware leſt the fire of contention ſcorch it, and make it uſeleſs.</p>
+                  <p>O <hi>Lilburne, Lilburn,</hi> hear what he ſaith, who <hi>ſaid he would be wiſe, but it was far from him.</hi>
+                  </p>
+                  <p>If thou hadſt as much wiſdom as courage, If as much pru<g ref="char:EOLhyphen"/>dence as confidence, If as much meeknes, and gentlenes, as ſtrength of memory, If as much depth of apprehenſion, as ready delivery, Thou wouldeſt be a rare Phenix, or Bird of Paradice. <hi>But every man hath his proper gift, one after this manner, another after that.</hi> And yet thou haſt all theſe in a mea<g ref="char:EOLhyphen"/>ſure.</p>
+                  <p>Thou haſt done and ſuffered much, yea ſo much, that <hi>an Enemy of Sathan is ſent to buffet thee, that thou mayeſt not be exalted in thy ſelf.</hi>
+                  </p>
+                  <p>And why waſt thou ſo raviſhed with the routing of the Parliament?</p>
+                  <p>Thou art not the firſt wiſe man deceived through confi<g ref="char:EOLhyphen"/>dence in man.</p>
+                  <p>Be not overcome, or drawn in by every one that ſpeaks thee fair, and faineth himſelf juſt to intrap thee. <hi>Beleeve, not every ſpirit,</hi> firſt try, and then truſt, leſt they proove as <hi>broken teeth and feet out of joynt.</hi>
+                  </p>
+                  <p>Thou outcaſt of <hi>England,</hi> didſt not thou know that the Parliament had erred? And didſt thou think the Lord Gene<g ref="char:EOLhyphen"/>ral, and his Councel of Officers did wel, in confirming their Acts, and denying to break ſuch yoaks, or to go againſt any of them, after their diſſolution of a Parliament, or no Parli<g ref="char:EOLhyphen"/>ament, who made Laws, or no Laws, Of force, or of no force, Then in Authority, or not in Authority. And now the ſame,
+<pb n="20" facs="tcp:166584:11"/>or not the ſame. <hi>Who had driven thee out, ſaying: go ſerve other gods,</hi>
+                     <note place="margin">1 Sam. 21.11, 12, 13. and 28.2. and 29.8.</note> as if they had a deſigne upon thee, to force thee for thy preſervation to fain thy ſelf to be that which thou waſt not, and to take upon thee, to do that which thou didſt not, nor dareſt do.</p>
+                  <p>And how didſt thou come into this Wildernes, to tread upon Engliſh ground to defend thy ſelf, with a ſword with<g ref="char:EOLhyphen"/>out a hilt, before thou hadſt made thy peace, with men of War, who had armed themſelves, and forewarned thee, Wil the falling out of lovers be the renewing of love; it hath moved thee to ſeek to them, and may perſwade them to em<g ref="char:EOLhyphen"/>brace thee.</p>
+                  <p>
+                     <hi>If thou deſireſt the Mercie of God to preſerve thee, the Aſſiſtance of Saints, and Angels to protect thee; If thou wouldſt have thine Enemies at peace with thee, Let thy ways always pleaſe the LORD, and ſtrive to outſtrip all the world in the choiceſt wiſdom (if poſſible) Forſake the fooliſh, and live. My ſon, fear thou God, and the Supream,</hi>
+                     <note place="margin">Pro. 24.21.</note> 
+                     <hi>and meddle not with them that be given to change.</hi>
+                  </p>
+                  <p>Some men have been almoſt diſtracted through oppreſſi<g ref="char:EOLhyphen"/>on, others have learned wiſdom by affliction, and thou haſt bought experience at a dear rate; and thine enemies have not ſcaped ſcot free: Therefore be not paſſionate, but pati<g ref="char:EOLhyphen"/>ent. And</p>
+                  <p>When thou art eſcaped with thy life for a prey, refine what's worth the refining; and when thy cup is full, carry it even, very even.</p>
+                  <p>
+                     <hi>Moreover my ſon,</hi>
+                     <note place="margin">Ecleſ: 12.12.</note> 
+                     <hi>by theſe be admoniſhed, of making many books there is no end, and much ſtudy is a wearines to the fleſh.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Belſavage,</hi> 
+                        <date>22<hi rend="sup">th.</hi> June. 1653.</date>
+                     </dateline>
+                     <signed>S: Chidley.</signed>
+                  </closer>
+               </div>
+            </div>
+            <closer>GOD Grant Repentance to our Enemies. GOD Give Salvation to the holy Separated Church. GOD Preſerve the peace of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
